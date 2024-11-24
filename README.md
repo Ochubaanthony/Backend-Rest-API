@@ -123,7 +123,7 @@ gunicorn --bind 0.0.0.0:8000 Computex.wsgi:application
 
 9. Verify Deployment
 
-Open a web browser and navigate to http://publicip:8000/swagger to access the swagger documentation.
+Open a web browser and navigate and enter just the IP without the port 8000
 
 
 
